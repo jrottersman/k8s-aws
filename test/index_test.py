@@ -1,5 +1,5 @@
 import unittest
-from index import create_message
+from app.index import create_message
 
 class TestCreateMessage(unittest.TestCase):
 

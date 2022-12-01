@@ -4,6 +4,7 @@
 `flask --app index run`
 
 to run unit tests
-`python index_test.py`
+From main directory
+`python -m unittest test.index_test`
 
 ## Deploy
